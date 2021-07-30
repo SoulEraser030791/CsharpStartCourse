@@ -5,10 +5,4 @@
     <TargetFramework>net5.0</TargetFramework>
   </PropertyGroup>
 
-  <ItemGroup>
-    <Compile Remove="Homework1\**" />
-    <EmbeddedResource Remove="Homework1\**" />
-    <None Remove="Homework1\**" />
-  </ItemGroup>
-
 </Project>
